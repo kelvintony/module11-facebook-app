@@ -1,3 +1,5 @@
+
+// Code starts here
 var userNamePrompt= prompt("Enter username:");
 var passwordPrompt= prompt("Enter password:");
 
